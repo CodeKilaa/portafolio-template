@@ -1,128 +1,199 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "title": "Luis Velasquez | Portafolio",
+    "description": "",
+    "image": "",
+    "avatar": "",
+    "name": "Luis Velasquez",
+    "skill": "Programador web",
+    "location": "Lima, Peru",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "luisvelasquez2405@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/CodeKilaa",
+        "likedin": ""
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un joven desarrollador Front-end con un año de experiencia, apasionado por la evolucion continua en el campo del desarrollo web. Poseo solidos conocimientos y habilidades en todas las etapas de la creacion de software, con un enfoque en el crecimiento y la mejora constante. Me especializo en innovar y optimizar la experiencia del usuario, siempre buscando maneras de ofrecer soluciones creativas y efectivas.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-javascript-plain",
+            "name": "JS"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+            "icon": "devicon-php-plain",
+            "name": "PHP"
+        },
+        {
+            "icon": "devicon-mysql-original",
+            "name": "MySQL"
+        },
+        
+        {
+            "icon":"devicon-figma-plain",
+            "name": "Figma"
+        },
+        {
+            "icon":"devicon-git-plain",
+            "name": "Git"
         }
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Digital Buho",
+            "subtitle": "Desarrollador Web",
+            "description": "Colaboracion en la implementacion de funcionalidades innovadoras para la empresa",
+            "date": "feb 2023 - nov 2023"
         },
         {
             "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "title": "Codecta",
+            "subtitle": "Desarrollador Web",
+            "description": "Creacion de sistemas web para los colaboradores y clientes",
+            "date": " feb 2024 - may 2024"
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Sistema Control Asistencias",
+            "subtitle": "Software",
+            "description": "Herramienta para el control de las areas de trabajo y colaboradores.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-laravel-original",
+                    "name": "Laravel"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                },
+                {
+                    "icon": "devicon-jquery-plain",
+                    "name": "JQuery"
                 }
+
+                
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "image": "/project_1.png",
+            "url": "",
+            "github": "https://github.com/CodeKilaa/InspinaLaravel"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "bar-chart-4",
+            "title": "Sistema Administrativo de Personal",
+            "subtitle": "Software",
+            "description": "Herramienta para el registro y analisis de las ventas",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-dot-net-plain",
+                    "name": "ASP.NET"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "",
+            "url": "",
+            "github": "https://github.com/CodeKilaa/SistemaWebAdmin"
+        },
+        {
+            "icon": "bar-chart-4",
+            "title": "Sistema Web Gimnasio",
+            "subtitle": "Software",
+            "description": "Gestion diaria de seguimiento para un gimnasio",
+            "technologies": [
+                {
+                    "icon": "devicon-php-plain",
+                    "name": "PHP"
+                },
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                },
+                {
+                    "icon": "devicon-jquery-plain",
+                    "name": "JQuery"
+                }
+            ],
+            "image": "/project_2.png",
+            "url": "",
+            "github": "https://github.com/CodeKilaa/app_gym"
         }
     ],
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "SENATI",
+            "subtitle": "Desarrollo de Software",
+            "description": "Estudiante VI Ciclo",
+            "date": "feb 2022 - actualidad",
+            "certificate": ""
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Oracle Academy",
+            "subtitle": "Database Design",
+            "description": "Certificado",
+            "date": "septiembre 2023",
+            "certificate": ""
+        },
+        
+        {
+            "icon": "graduation-cap",
+            "title": "CertiProf",
+            "subtitle": " Scrum Foundation Professional",
+            "description": "Certificado",
+            "date": "agosto 2023",
+            "certificate": ""
         }
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "image": "",
+            "title": "",
+            "description": "",
+            "url": ""
         },
         {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+            "image": "",
+            "title": "",
+            "description": "",
+            "url": ""
         },
         {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "image": "",
+            "title": "",
+            "description": "",
+            "url": ""
         }
     ]
 }

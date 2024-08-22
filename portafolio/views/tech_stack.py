@@ -6,7 +6,7 @@ from portafolio.styles.styles import EmSize, Size
 
 def tech_stack(technologies: list[Technology]) -> rx.Component:
     return rx.vstack(
-        heading("Tecnologías"),
+        heading("Tecnologías y Herramientas"),
         rx.flex(
             *[
                 rx.badge(
